@@ -1,9 +1,11 @@
 #!/bin/sh
 # ============================================================================================================
-# SCRIPT : DOWNLOAD AND INSTALL AJPANEL
-# Command: wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
+# Purpose	: Install AJPanel on Enigma2 Devices
+# Usage		: wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
 # ============================================================================================================
 
+# ============================================================================================================
+# Intro
 SEP="********************************************************************"
 echo -e "\n$SEP"
 echo "**                                                                **"
@@ -11,6 +13,7 @@ echo "**                      AJPanel Installation                      **"
 echo "**                                                                **"
 echo -e "$SEP\n"
 
+# ============================================================================================================
 # Check Version	... /tmp/version
 # Download "version" file to /tmp/version
 echo 'Checking Server Version ...'
@@ -20,6 +23,7 @@ AJP_VER_TMP="/tmp/"$VER_FILE_NAME
 rm -f $AJP_VER_TMP > /dev/null 2>&1
 wget --no-check-certificate -T 2 -O "/tmp/"$VER_FILE_NAME $AJP_URL$VER_FILE_NAME
 
+# ============================================================================================================
 # Download/Install
 RES=1
 if [ -f $AJP_VER_TMP ]; then
@@ -65,6 +69,7 @@ else
 	echo ".... Cannot get version file from server !"
 fi
 
+# ============================================================================================================
 # Result
 if [ $RES -eq 0 ]; then
 	echo -e "\n$SEP\n**               SUCCESSFUL               **\n$SEP\n"
@@ -73,3 +78,5 @@ else
 	echo -e "\n$SEP\n**                      INSTALLATION FAILED                       **\n$SEP\n"
 	exit 1
 fi
+
+# ============================================================================================================
