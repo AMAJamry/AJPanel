@@ -1,1 +1,1 @@
-This is the official AJPanel Repository.
+AJPanel - Enigma2 Tools
