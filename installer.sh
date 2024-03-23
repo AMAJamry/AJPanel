@@ -65,7 +65,7 @@ else
 	echo ".... Cannot get version file from server !"
 fi
 
-# Footer
+# Result
 if [ $RES -eq 0 ]; then
 	echo -e "\n$SEP\n**               SUCCESSFUL               **\n$SEP\n"
 	exit 0
