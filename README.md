@@ -1,3 +1,5 @@
+<!-- ============== ICON + TITLE ============== -->
+
 <p align="center">
 	<img src="https://github.com/AMAJamry/AJPanel/assets/164648277/08fb2f4c-a792-4066-991c-0ba31366116f">
 	<h1 align="center">AJPanel v3.9.1</h1>
@@ -8,6 +10,7 @@
 	Officially Released : 2021-01-15
 </h3>
 
+<!-- ============== MENU ============== -->
 <hr>
 <p>
 &bull; <a href="#installation">Installation</a><br>
@@ -15,6 +18,7 @@
 </p>
 
 <hr>
+<!-- ============== INSTALLATION COMMAND ============== -->
 
 ## Installation
 
@@ -23,6 +27,7 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 ```
 
 <hr>
+<!-- ============== MAIN FEATURE ============== -->
 
 ## Features<br>
 * File Manage<br>
