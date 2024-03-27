@@ -16,7 +16,7 @@
 
 <hr>
 
-### Installation
+## Installation
 
 ```
 wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
@@ -24,7 +24,7 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 
 <hr>
 
-### Features<br>
+## Features<br>
 * File Manage<br>
 * IPTV<br>
 * Movies Browser<br>
