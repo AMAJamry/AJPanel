@@ -48,7 +48,6 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 * [Assigning Hotkeys](help/AssigningHotkeys.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
 * [Custom Menu](help/CustomMenu.jpg)
-* [IPTV - Change Reference for a Bouquets](help/IPTV_ChangeReferenceForBouquets.jpg)
 * [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceforaBouquet.jpg)
 * [IPTV - Favourite Servers](help/IPTV_FavouriteServers.jpg)
 * [Player Bar - Color](help/PlayeBarColor.jpg)
