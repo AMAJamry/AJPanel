@@ -44,5 +44,16 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 <!-- ============== FEATURE ============== -->
 
 ### ❓📃 Guide
-* How to
+* [Accessing Signal Monitor](help/AccessingSignalMonitor.jpg)
+* [Assigning Hotkeys](help/AssigningHotkeys.jpg)
+* [Channel Browser](help/ChannelBrowser.jpg)
+* [Custom Menu](help/CustomMenu.jpg)
+* [IPTV - Change Reference for a Bouquets](help/IPTV_ChangeReferenceForBouquets.jpg)
+* [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceforaBouquet.jpg)
+* [IPTV - Favourite Servers](help/IPTV_FavouriteServers.jpg)
+* [Player Bar - Color](help/PlayeBarColor.jpg)
+* [Player Bar - Seek Jump Time](help/PlayerBar_SeekJumpTime.jpg)
+* [Screenshot - Hotkeys](help/Screenshot_Hotkeys.jpg)
+* [Screenshot - OSD File Name](help/Screenshot_OSDFileName.jpg)
+* [Share EPG](help/ShareEPG.jpg)
 
