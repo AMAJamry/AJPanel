@@ -44,15 +44,15 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 <!-- ============== FEATURE ============== -->
 
 ### ❓📃 Guide
-* [Accessing Signal Monitor](blob/main/help/AccessingSignalMonitor.jpg?raw=true)
-* [Assigning Hotkeys](help/AssigningHotkeys.jpg?raw=true)
-* [Channel Browser](help/ChannelBrowser.jpg?raw=true)
-* [Custom Menu](help/CustomMenu.jpg?raw=true)
-* [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceforaBouquet.jpg?raw=true)
-* [IPTV - Favourite Servers](help/IPTV_FavouriteServers.jpg?raw=true)
-* [Player Bar - Color](help/PlayeBarColor.jpg?raw=true)
-* [Player Bar - Seek Jump Time](help/PlayerBar_SeekJumpTime.jpg?raw=true)
-* [Screenshot - Hotkeys](help/Screenshot_Hotkeys.jpg?raw=true)
-* [Screenshot - OSD File Name](help/Screenshot_OSDFileName.jpg?raw=true)
-* [Share EPG](help/ShareEPG.jpg?raw=true)
+* [Accessing Signal Monitor](blob/main/help/AccessingSignalMonitor.jpg)
+* [Assigning Hotkeys](help/AssigningHotkeys.jpg)
+* [Channel Browser](help/ChannelBrowser.jpg)
+* [Custom Menu](help/CustomMenu.jpg)
+* [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceforaBouquet.jpg)
+* [IPTV - Favourite Servers](help/IPTV_FavouriteServers.jpg)
+* [Player Bar - Color](help/PlayeBarColor.jpg)
+* [Player Bar - Seek Jump Time](help/PlayerBar_SeekJumpTime.jpg)
+* [Screenshot - Hotkeys](help/Screenshot_Hotkeys.jpg)
+* [Screenshot - OSD File Name](help/Screenshot_OSDFileName.jpg)
+* [Share EPG](help/ShareEPG.jpg)
 
