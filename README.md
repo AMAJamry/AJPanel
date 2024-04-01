@@ -8,19 +8,6 @@
 
 <br><hr>
 
-<!-- ============== INSTALLATION ============== -->
-### 💻 Installation Script
-Run this script:
-```
-wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
-```
-or
-```
-wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | /bin/sh
-```
-
-<br><hr>
-
 <!-- ============== FEATURE ============== -->
 
 ### ⭐ Features 
@@ -42,6 +29,19 @@ wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | 
 * Context-Menu -> Find
 * Signal Monitor
 * Custom Menu
+
+<br><hr>
+
+<!-- ============== INSTALLATION ============== -->
+### 💻 Installation Script
+Run this script:
+```
+wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
+```
+or
+```
+wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | /bin/sh
+```
 
 <br><hr>
 
