@@ -44,7 +44,7 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 <!-- ============== FEATURE ============== -->
 
 ### ❓📃 Guide
-* [Accessing Signal Monitor](blob/main/help/AccessingSignalMonitor.jpg)
+* [Accessing Signal Monitor](help/AccessingSignalMonitor.jpg)
 * [Assigning Hotkeys](help/AssigningHotkeys.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
 * [Custom Menu](help/CustomMenu.jpg)
