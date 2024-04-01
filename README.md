@@ -14,6 +14,7 @@ Run this script:
 ```
 wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
 ```
+or
 ```
 wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | /bin/sh
 ```
