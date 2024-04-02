@@ -29,12 +29,14 @@
 * Context-Menu -> Find
 * Signal Monitor
 * Custom Menu
+* Download Manager
+* FTP File Manager
 
 <br><hr>
 
 <!-- ============== INSTALLATION ============== -->
 ## 💻 Installation
-### Method-1:
+### 🔷 Method-1:
 * Run the following Telnet command (wich will automatically install the right package for your device):
 ```
 wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
@@ -44,7 +46,7 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | /bin/sh
 ```
 
-### Method-2:
+### 🔷 Method-2:
 * Download the suitable package file (**ipk** or **deb**) to any directory ( Example /tmp/ ).
 * Then install the ipk with:
 ```
@@ -55,7 +57,7 @@ opkg install /tmp/*.ipk
 dpkg -i /tmp/*.ipk
 ```
 
-### Method-3:
+### 🔷 Method-3:
 * Download the suitable package file (**ipk** or **deb**) to any directory ( Example **/tmp/** ).
 * Then install the **ipk** with:
 ```
@@ -69,7 +71,11 @@ dpkg -i --force-overwrite /tmp/*.deb
 apt-get install -f -y
 ```
 
-## 💻 Update
+<br><hr>
+
+<!-- ============== INSTALLATION ============== -->
+
+## 🔄 Update
 You can update AJPanel as follows:
 1. From AJPanel Main Page, select **Settings** (Green Button).
 2. From **Settings** page, click **Menu** Button, then select **Update AJPanel**
