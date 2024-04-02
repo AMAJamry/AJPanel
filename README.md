@@ -10,7 +10,7 @@
 
 <!-- ============== FEATURE ============== -->
 
-### ⭐ Features 
+## ⭐ Features 
 
 * File Manage
 * IPTV
@@ -33,14 +33,40 @@
 <br><hr>
 
 <!-- ============== INSTALLATION ============== -->
-### 💻 Installation Script
-Run this script:
+## 💻 Installation
+### Method-1:
+* Run the following Telnet command (wich will automatically install the right package for your device):
 ```
 wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
 ```
-or
+* or
 ```
 wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | /bin/sh
+```
+
+### Method-2:
+* Download the suitable package file (ipk or deb) to any directory ( Example /tmp/ ).
+* Then install the ipk with:
+```
+opkg install /tmp/*.ipk
+```
+* or install the deb with:
+```
+dpkg -i /tmp/*.ipk
+```
+
+### Method-3:
+* Download the suitable package file (ipk or deb) to any directory ( Example **/tmp/** ).
+* Then install the **ipk** with:
+```
+opkg update
+opkg install --force-overwrite /tmp/*.ipk
+```
+or install the **deb** with:
+```
+apt-get update
+dpkg -i --force-overwrite /tmp/*.deb -y
+apt-get install -f -y
 ```
 
 <br><hr>
