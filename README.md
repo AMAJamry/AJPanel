@@ -45,7 +45,7 @@ wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | 
 ```
 
 ### Method-2:
-* Download the suitable package file (ipk or deb) to any directory ( Example /tmp/ ).
+* Download the suitable package file (**ipk** or **deb**) to any directory ( Example /tmp/ ).
 * Then install the ipk with:
 ```
 opkg install /tmp/*.ipk
@@ -56,7 +56,7 @@ dpkg -i /tmp/*.ipk
 ```
 
 ### Method-3:
-* Download the suitable package file (ipk or deb) to any directory ( Example **/tmp/** ).
+* Download the suitable package file (**ipk** or **deb**) to any directory ( Example **/tmp/** ).
 * Then install the **ipk** with:
 ```
 opkg update
