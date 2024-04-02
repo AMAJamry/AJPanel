@@ -65,13 +65,18 @@ opkg install --force-overwrite /tmp/*.ipk
 or install the **deb** with:
 ```
 apt-get update
-dpkg -i --force-overwrite /tmp/*.deb -y
+dpkg -i --force-overwrite /tmp/*.deb
 apt-get install -f -y
 ```
 
+## 💻 Update
+You can update AJPanel as follows:
+* From AJPanel Main Page, select **Settings** (Green Button).
+* From **Settings** page, click **Menu** Button, then select **Update AJPanel**
+
 <br><hr>
 
-<!-- ============== FEATURE ============== -->
+<!-- ============== GUIDE/HELP ============== -->
 
 ### ❓📃 Guide
 * [Accessing Signal Monitor](help/AccessingSignalMonitor.jpg)
