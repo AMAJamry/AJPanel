@@ -71,14 +71,15 @@ apt-get install -f -y
 
 ## 💻 Update
 You can update AJPanel as follows:
-* From AJPanel Main Page, select **Settings** (Green Button).
-* From **Settings** page, click **Menu** Button, then select **Update AJPanel**
+1. From AJPanel Main Page, select **Settings** (Green Button).
+2. From **Settings** page, click **Menu** Button, then select **Update AJPanel**
+   - You will be asked to confirm the update (if there is a higher version).
 
 <br><hr>
 
 <!-- ============== GUIDE/HELP ============== -->
 
-### ❓📃 Guide
+## ❓📃 Guide
 * [Accessing Signal Monitor](help/AccessingSignalMonitor.jpg)
 * [Assigning Hotkeys](help/AssigningHotkeys.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
