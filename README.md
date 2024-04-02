@@ -85,7 +85,7 @@ You can update AJPanel as follows:
 
 <!-- ============== GUIDE/HELP ============== -->
 
-## ❓📃 Guide
+## 📜 Guide
 * [Accessing Signal Monitor](help/AccessingSignalMonitor.jpg)
 * [Assigning Hotkeys](help/AssigningHotkeys.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
