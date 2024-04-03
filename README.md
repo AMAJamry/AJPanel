@@ -89,7 +89,7 @@ You can update AJPanel as follows:
 * [Accessing Signal Monitor](help/AccessingSignalMonitor.jpg)
 * [Assigning Hotkeys](help/AssigningHotkeys.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
-* [Custom Menu](help/CustomMenu.jpg)
+* [Custom Menu](help/CustomMenuSamples.jpg)
 * [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceForBouquets.jpg)
 * [IPTV - Favourite Servers](help/IPTV_FavouriteServers.jpg)
 * [Player Bar - Color](help/PlayeBarColor.jpg)
