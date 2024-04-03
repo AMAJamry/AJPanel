@@ -87,7 +87,7 @@ You can update AJPanel as follows:
 
 ## 📜 Guide
 * [Channel Browser](help/ChannelBrowser.jpg)
-* [Custom Menu - Samples](help/CustomMenuSamples.jpg)
+* [Custom Menu - Samples](help/Custom_Menu_Samples.jpg)
 * [File Manager - Remove a Plugin Related to a Package File](help/Remove_package_using_pkg_file.jpg)
 * [File Manager - View Non-UTF8 Encoded Text Files](help/View_non_UTF8_file.jpg)
 * [Hotkeys - Assign](help/HotkeysAssign.jpg)
