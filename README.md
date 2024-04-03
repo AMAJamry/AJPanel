@@ -100,5 +100,6 @@ You can update AJPanel as follows:
 * [Screenshot - OSD File Name](help/Screenshot_OSDFileName.jpg)
 * [Share EPG](help/ShareEPG.jpg)
 * [Terminal - Custom Commands File](help/CustomCommandsFile.jpg)
-* [Subtitle – Searching Local Files for Suitable Subtitle (srt file)](help/SubtitleTextColor.jpg)
+* [Subtitle – Searching Local Files for Suitable Subtitle (srt file)](help/Subtitle_find_local_srt.jpg)
+* [Subtitle – Text Color](help/SubtitleTextColor.jpg)
 
