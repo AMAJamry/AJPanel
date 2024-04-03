@@ -4,7 +4,7 @@
 <br>
 
 ## ❔ About
-### AJPanel is a completely free plugin for Enigma2 based STBs (Set-Top Boxes).
+### AJPanel is a free plugin for Enigma2 based STBs (Set-Top Boxes).
 
 <br><hr>
 
