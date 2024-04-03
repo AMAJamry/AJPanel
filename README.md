@@ -64,7 +64,7 @@ dpkg -i /tmp/*.deb
 opkg update
 opkg install --force-overwrite /tmp/*.ipk
 ```
-or install the **`deb`** with:
+* or install the **`deb`** with:
 ```
 apt-get update
 dpkg -i --force-overwrite /tmp/*.deb
