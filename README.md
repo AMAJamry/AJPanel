@@ -3,7 +3,7 @@
 <h1 align="center">AJPanel v3.9.1</h1>
 <br>
 
-- [About](#🟢-about)
+- [About](#about)
 - [Features](#features)
 - [Installation](#installation)
 - [Guide/Help](#guide-help)
