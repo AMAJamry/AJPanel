@@ -36,7 +36,7 @@
 
 <!-- ============== INSTALLATION ============== -->
 ## 💻 Installation
-### 🔷 Method-1:
+### ◻️ Method-1:
 * Run the following Telnet command (which will automatically install the right package for your device):
 ```
 wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
@@ -46,7 +46,7 @@ wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - |
 wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | /bin/sh
 ```
 
-### 🔷 Method-2:
+### ◻️ Method-2:
 * Download the suitable package file (**`ipk`** or **`deb`**) to any directory ( Example /tmp/ ).
 * Then install the **ipk** with:
 ```
@@ -57,7 +57,7 @@ opkg install /tmp/*.ipk
 dpkg -i /tmp/*.deb
 ```
 
-### 🔷 Method-3:
+### ◻️ Method-3:
 * Download the suitable package file (**`ipk`** or **`deb`**) to any directory ( example **`/tmp/`** ).
 * Then install the **`ipk`** with:
 ```
