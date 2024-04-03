@@ -48,13 +48,13 @@ wget https://raw.githubusercontent.com/biko-73/AJPanel/main/installer.sh -O - | 
 
 ### 🔷 Method-2:
 * Download the suitable package file (**ipk** or **deb**) to any directory ( Example /tmp/ ).
-* Then install the ipk with:
+* Then install the **ipk** with:
 ```
 opkg install /tmp/*.ipk
 ```
-* or install the deb with:
+* or install the **deb** with:
 ```
-dpkg -i /tmp/*.ipk
+dpkg -i /tmp/*.deb
 ```
 
 ### 🔷 Method-3:
