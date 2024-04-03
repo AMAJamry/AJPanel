@@ -86,7 +86,7 @@ You can update AJPanel as follows:
 <!-- ============== GUIDE/HELP ============== -->
 
 ## 📜 Guide
-* [Assigning Hotkeys](help/AssigningHotkeys.jpg)
+* [Assigning Hotkeys](help/Hotkeys-Assign.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
 * [Custom Menu - Samples](help/CustomMenuSamples.jpg)
 * [File Manager - Remove a Plugin Related to a Package File](help/Remove_package_using_pkg_file.jpg)
