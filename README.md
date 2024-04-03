@@ -3,12 +3,7 @@
 <h1 align="center">AJPanel v3.9.1</h1>
 <br>
 
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Guide/Help](#guide-help)
-
-## 🟢 About
+## ❔ About
 ### AJPanel is a completely free plugin for Enigma2 based STBs (Set-Top Boxes).
 
 <br><hr>
