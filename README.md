@@ -37,7 +37,7 @@
 <!-- ============== INSTALLATION ============== -->
 ## 💻 Installation
 ### 🔷 Method-1:
-* Run the following Telnet command (wich will automatically install the right package for your device):
+* Run the following Telnet command (which will automatically install the right package for your device):
 ```
 wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
 ```
