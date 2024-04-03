@@ -86,11 +86,11 @@ You can update AJPanel as follows:
 <!-- ============== GUIDE/HELP ============== -->
 
 ## 📜 Guide
-* [Assigning Hotkeys](help/Hotkeys-Assign.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
 * [Custom Menu - Samples](help/CustomMenuSamples.jpg)
 * [File Manager - Remove a Plugin Related to a Package File](help/Remove_package_using_pkg_file.jpg)
 * [File Manager - View Non-UTF8 Encoded Text Files](help/View_non_UTF8_file.jpg)
+* [Hotkeys - Assign](help/Hotkeys-Assign.jpg)
 * [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceForBouquets.jpg)
 * [IPTV - Favourite Servers](help/IPTV_FavouriteServers.jpg)
 * [Player Bar - Color](help/PlayeBarColor.jpg)
@@ -98,8 +98,7 @@ You can update AJPanel as follows:
 * [Screenshot - Hotkeys](help/Screenshot_Hotkeys.jpg)
 * [Screenshot - OSD File Name](help/Screenshot_OSDFileName.jpg)
 * [Share EPG](help/ShareEPG.jpg)
-* [Signal Monitor - Access Methods](help/SignalMonitor_accees.jpg)
-* [Terminal - Custom Commands File](help/CustomCommandsFile.jpg)
 * [Subtitle – Searching Local Files for Suitable Subtitle (srt file)](help/Subtitle_find_local_srt.jpg)
 * [Subtitle – Text Color](help/SubtitleTextColor.jpg)
-
+* [Signal Monitor - Access Methods](help/SignalMonitor_accees.jpg)
+* [Terminal - Custom Commands File](help/CustomCommandsFile.jpg)
