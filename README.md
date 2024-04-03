@@ -86,7 +86,6 @@ You can update AJPanel as follows:
 <!-- ============== GUIDE/HELP ============== -->
 
 ## 📜 Guide
-* [Accessing Signal Monitor](help/AccessingSignalMonitor.jpg)
 * [Assigning Hotkeys](help/AssigningHotkeys.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
 * [Custom Menu](help/CustomMenuSamples.jpg)
@@ -99,6 +98,7 @@ You can update AJPanel as follows:
 * [Screenshot - Hotkeys](help/Screenshot_Hotkeys.jpg)
 * [Screenshot - OSD File Name](help/Screenshot_OSDFileName.jpg)
 * [Share EPG](help/ShareEPG.jpg)
+* [Signal Monitor (Access Methods](help/SignalMonitor_accees.jpg)
 * [Terminal - Custom Commands File](help/CustomCommandsFile.jpg)
 * [Subtitle – Searching Local Files for Suitable Subtitle (srt file)](help/Subtitle_find_local_srt.jpg)
 * [Subtitle – Text Color](help/SubtitleTextColor.jpg)
