@@ -88,7 +88,7 @@ You can update AJPanel as follows:
 ## 📜 Guide
 * [Assigning Hotkeys](help/AssigningHotkeys.jpg)
 * [Channel Browser](help/ChannelBrowser.jpg)
-* [Custom Menu](help/CustomMenuSamples.jpg)
+* [Custom Menu Samples](help/CustomMenuSamples.jpg)
 * [File Manager - Remove a Plugin Related to a Package File](help/Remove_package_using_pkg_file.jpg)
 * [File Manager - View Non-UTF8 Encoded Text Files](help/View_non_UTF8_file.jpg)
 * [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceForBouquets.jpg)
