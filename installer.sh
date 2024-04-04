@@ -1,7 +1,8 @@
 #!/bin/sh
 # ============================================================================================================
-# Purpose	: Install AJPanel on Enigma2 Devices
+# Purpose	: Install AJPanel on Enigma2 Devices (automatically installs the right ipk/deb package).
 # Usage		: wget https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
+# Home Page	: https://github.com/AMAJamry/AJPanel
 # ============================================================================================================
 
 # ============================================================================================================
@@ -55,7 +56,7 @@ if [ -f $AJP_VER_TMP ]; then
 				dpkg -i --force-overwrite $AJP_PKG_FILE
 				RES=$?
 			else
-				opkg install --force-overwrite $AJP_PKG_FILE			# "--force-reinstall" is not OK on OpenBH v5 (Python-3)
+				opkg install --force-overwrite $AJP_PKG_FILE
 				if ! [ $? -eq 0 ]; then echo -e ".... Method-1 failed ....\n"; opkg install --force-reinstall $AJP_PKG_FILE; fi
 				RES=$?
 				if ! [ $RES -eq 0 ]; then echo -e ".... Method-2 failed ....\n"; fi
