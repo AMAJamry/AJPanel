@@ -86,6 +86,7 @@ You can update AJPanel as follows:
 <!-- ============== GUIDE/HELP ============== -->
 
 ## 📜 Guide
+* [Archive Files & Directories from Different Paths](help/Archive_from_different_paths.jpg)
 * [Channels Browser](help/ChannelsBrowser.jpg)
 * [Custom Menu - Samples](help/Custom_Menu_Samples.jpg)
 * [File Manager - Remove a Plugin Related to a Package File](help/Remove_package_using_pkg_file.jpg)
