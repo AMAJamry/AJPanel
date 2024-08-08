@@ -94,7 +94,7 @@ You can update AJPanel as follows:
 * [Hotkeys - Assign](help/HotkeysAssign.jpg)
 * [IPTV - Change Reference for a Bouquet](help/IPTV_ChangeReferenceForBouquets.jpg)
 * [IPTV - Favourite Servers](help/IPTV_FavouriteServers.jpg)
-* [Player Bar - Color](help/PlayerBarColors.jpg)
+* [Player Bar - Colors](help/PlayerBarColors.jpg)
 * [Player Bar - Seek Jump Time](help/PlayerBar_SeekJumpTime.jpg)
 * [Screenshot - Hotkeys](help/Screenshot_Hotkeys.jpg)
 * [Screenshot - OSD File Name](help/Screenshot_OSDFileName.jpg)
