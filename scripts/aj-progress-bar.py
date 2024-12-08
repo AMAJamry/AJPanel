@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # ============================================================================================================
-# Progress-Bar v1.0 (by AMAJamry)
+# Progress-Bar v1.0.1 (by AMAJamry)
 # ============================================================================================================
 # Execution:
 #	Run from AJPanel Terminal or File Manage
@@ -18,10 +18,10 @@
 #	mark	: Can be : "▇"	... = u"\u2587" = chr(9607)		... Optional .. Default = "#"
 # ------------------------------------------------
 import sys
-def updateBar(curVal, maxVal, prefix="Progress", width=40, mark="#"):
+def updateBar(curVal, maxVal, prefix="Progress", action="", width=40, mark="#"):
 	prog = int(width * curVal // float(maxVal))
-	sys.stdout.write("\r%s : [ %s ] %d %% " % (prefix, mark * prog + "." * (width - prog), 100 * (curVal / float(maxVal))))
-	if curVal == maxVal: sys.stdout.write("\n")
+	sys.stdout.write("\r%s : [ %s ] %d%% %s" % (str(prefix), mark * prog + "." * (width - prog), 100 * (curVal / float(maxVal)), str(action)))
+	if curVal == maxVal: print("\n")
 	sys.stdout.flush()
 
 # ============================================================================================================
@@ -36,6 +36,6 @@ for curVal in range(minVal, maxVal + 1):
 	sleep(0.03)
 
 	# Update Progress-Bar
-	updateBar(curVal, maxVal)
+	updateBar(curVal, maxVal, action="Downloading %s ... " % curVal)
 
 print("Finished")
