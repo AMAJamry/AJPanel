@@ -18,9 +18,9 @@
 #	mark	: Can be : "▇"	... = u"\u2587" = chr(9607)		... Optional .. Default = "#"
 # ------------------------------------------------
 import sys
-def updateBar(curVal, maxVal, prefix="Progress", action="", width=40, mark="#"):
+def updateBar(curVal, maxVal, prefix="Progress", suffix="", width=40, mark="#"):
 	prog = int(width * curVal // float(maxVal))
-	sys.stdout.write("\r%s : [ %s ] %d%% %s" % (str(prefix), mark * prog + "." * (width - prog), 100 * (curVal / float(maxVal)), str(action)))
+	sys.stdout.write("\r%s : [ %s ] %d%% %s" % (str(prefix), mark * prog + "." * (width - prog), 100 * (curVal / float(maxVal)), str(suffix)))
 	if curVal == maxVal: print("\n")
 	sys.stdout.flush()
 
@@ -36,6 +36,6 @@ for curVal in range(minVal, maxVal + 1):
 	sleep(0.03)
 
 	# Update Progress-Bar
-	updateBar(curVal, maxVal, action="Downloading %s ... " % curVal)
+	updateBar(curVal, maxVal)
 
 print("Finished")
