@@ -84,7 +84,7 @@ You can update AJPanel as follows:
 <br><hr>
 
 <!-- ============== REMOVAL ============== -->
-## ⛔ Removal
+## 🚮 Removal
 * Run the following Telnet command:
 ```
 wget -q https://raw.githubusercontent.com/AMAJamry/AJPanel/main/remove-ajpanel.sh -O - | /bin/sh
