@@ -73,13 +73,22 @@ apt-get install -f -y
 
 <br><hr>
 
-<!-- ============== INSTALLATION ============== -->
+<!-- ============== UPDATE ============== -->
 
 ## 🔄 Update
 You can update AJPanel as follows:
 1. From AJPanel Main Page, select **Settings** (Green Button).
 2. From **Settings** page, click **Menu** Button, then select **Update AJPanel**
    - You will be asked to confirm the update (if there is a higher version).
+
+<br><hr>
+
+<!-- ============== REMOVAL ============== -->
+## ⛔ Removal
+* Run the following Telnet command:
+```
+wget -q https://raw.githubusercontent.com/AMAJamry/AJPanel/main/remove-ajpanel.sh -O - | /bin/sh
+```
 
 <br><hr>
 
