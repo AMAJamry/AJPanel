@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # ============================================================================================================
-# Progress-Bar v1.0.2 (by AMAJamry)
+# Progress-Bar v1.0.3 (by AMAJamry)
 # ============================================================================================================
 # Execution:
 #	Run from AJPanel Terminal or File Manage
@@ -21,8 +21,8 @@
 import sys
 def updateBar(curVal, maxVal, prefix="Progress", suffix="", width=40, mark="#", markFg="2"):
 	prog = int(width * curVal // float(maxVal))
-	sys.stdout.write("\r%s : [ \x1B[3%sm%s\x1B[0m ] %d%% %s" % (str(prefix), markFg, mark * prog + "." * (width - prog), 100 * (curVal / float(maxVal)), str(suffix)))
-	if curVal == maxVal: print("\n")
+	sys.stdout.write("\r%s : [\x1B[3%sm%s\x1B[0m] %d%% %s" % (str(prefix), markFg, mark * prog + "." * (width - prog), 100 * (curVal / float(maxVal)), str(suffix)))
+	if curVal == maxVal: sys.stdout.write("\n")
 	sys.stdout.flush()
 
 # ============================================================================================================
