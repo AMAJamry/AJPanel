@@ -39,7 +39,7 @@
 ### ◻️ Method-1:
 * Run the following Telnet command (which will automatically install the right package for your device):
 ```
-wget wget --no-check-certificate https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
+wget --no-check-certificate https://raw.githubusercontent.com/AMAJamry/AJPanel/main/installer.sh -O - | /bin/sh
 ```
 
 ### ◻️ Method-2:
