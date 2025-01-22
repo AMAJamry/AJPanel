@@ -52,7 +52,7 @@ opkg install /tmp/*.ipk
 ```
 dpkg -i /tmp/*.deb
 ```
-* or
+or
 ```
 apt-get update
 dpkg -i --force-overwrite /tmp/*.deb
