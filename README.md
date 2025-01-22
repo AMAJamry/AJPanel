@@ -51,6 +51,12 @@ opkg install /tmp/*.ipk
 * or install the **`deb`** with:
 ```
 dpkg -i /tmp/*.deb
+
+or
+
+apt-get update
+dpkg -i --force-overwrite /tmp/*.deb
+apt-get install -f -y
 ```
 
 ### ◻️ Method-3:
