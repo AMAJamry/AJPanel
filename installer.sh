@@ -59,17 +59,19 @@ if [ -f $AJP_VER_TMP ]; then
 				if ! [ $? -eq 0 ]; then echo -e ".... Method-1 failed (will try another method) ....\n"; apt-get install --no-install-recommends -y $AJP_PKG_FILE; fi
 				RES=$?
 				if ! [ $RES -eq 0 ]; then echo -e ".... Method-2 failed ....\n"; fi
+				RES=$?
 				if [ $RES -eq 0 ]; then
 					apt-get install -f -y > /dev/null 2>&1
 					dpkg --configure -a > /dev/null 2>&1
 				fi
-				else
+			else
 				opkg update > /dev/null 2>&1
 				echo -e "Installing AJPanel (Method-1) ..."
 				opkg install --force-overwrite --force-depends $AJP_PKG_FILE
 				if ! [ $? -eq 0 ]; then echo -e ".... Method-1 failed (will try another method) ....\n"; opkg install --force-reinstall --force-depends $AJP_PKG_FILE; fi
 				RES=$?
 				if ! [ $RES -eq 0 ]; then echo -e ".... Method-2 failed ....\n"; fi
+				RES=$?
 			fi
 			rm -f $AJP_PKG_FILE > /dev/null 2>&1
 		else
