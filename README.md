@@ -52,12 +52,6 @@ opkg install /tmp/*.ipk
 ```
 dpkg -i /tmp/*.deb
 ```
-```
-# or
-apt-get update
-dpkg -i --force-overwrite /tmp/*.deb
-apt-get install -f -y
-```
 
 ### ◻️ Method-3:
 * Download the suitable package file (**`ipk`** or **`deb`**) to any directory ( example **`/tmp/`** ).
