@@ -63,7 +63,7 @@ if [ -f $AJP_VER_TMP ]; then
 					RES=$?
 					if ! [ $RES -eq 0 ]; then echo -e ".... Method-2 failed ....\n"; fi
 				fi
-				if [ $RES -eq 0 ]; then apt-get install -f -y > /dev/null 2>&1; dpkg --configure -a > /dev/null 2>&1; fi
+				if [ $RES -eq 0 ]; then apt-get install -f -y > /dev/null 2>&1; fi
 			else
 				opkg update > /dev/null 2>&1
 				echo -e "Installing AJPanel (Method-1) ..."
