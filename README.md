@@ -1,6 +1,6 @@
 <!-- ============== MAIN ============== -->
 <div align="center"><img src="https://github.com/AMAJamry/AJPanel/assets/164648277/08fb2f4c-a792-4066-991c-0ba31366116f"></div>
-<h1 align="center">AJPanel v10.7.0</h1>
+<h1 align="center">AJPanel v10.7.1</h1>
 <br>
 
 ## ❔ About
